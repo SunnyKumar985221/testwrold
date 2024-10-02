@@ -1,3 +1,0 @@
-example.js  // ignore example.js from currect directores as weel as from ther inside child to child directorwes measn every where in project
-/example.js // ignore example.js form only the currecyt difctores 
-/test/example.js // ignore example.js from test director sonly so if any fikle present in direcotes abc which is insdei the test directories will notbe ignored
